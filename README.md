@@ -1,5 +1,12 @@
 # IndexUpdate - transaction system, memo and time-travelling
 
 ```tsx
-const { index, makeTransaction } = useIndexUpdate();
+const App = () => {
+  const { index, makeTransaction } = useIndexUpdate();
+  return (
+    <button onClick={() => makeTransaction()} type="button">
+        current value is {index}
+    </button>
+  )
+};
 ```
