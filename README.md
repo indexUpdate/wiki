@@ -123,3 +123,8 @@ const App = () => {
 Not yet, but it will added in future (`@indexUpdate/angular`, `@indexUpdate/angular`)
 - #### How fast is it? 
 Very fast
+- #### Does `@indexUpdate/react` support `React classes`?
+Yes, it does.
+- #### Does `@indexUpdate/react` exist? 
+No, it doesn't
+
