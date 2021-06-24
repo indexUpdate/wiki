@@ -1,4 +1,5 @@
 # IndexUpdate - transaction system, memo and time-travelling
+Solving dependency problems (hell of dependencies). Improved caching as a consequence of application performance. It becomes much easier to manage the application. Index update is a replacement for `redux`, `react hooks`, `mobx`, `effector` and other libraries
 
 ### Simple React example
 ```tsx
