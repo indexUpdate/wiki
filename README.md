@@ -29,5 +29,6 @@ const App = () => {
 ```
 
 ### FAQ
-- Does it support `Angular`, `Vue`, `VanillaJS`?
+- #### Does it support `Angular`, `Vue`, `VanillaJS`?
+
 Not yet, but it will added in future (`@indexUpdate/angular`, `@indexUpdate/angular`)
