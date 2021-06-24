@@ -27,3 +27,6 @@ const App = () => {
   )
 };
 ``
+
+### FAQ
+- Does it support `Angular`, `Vue`, `VanillaJS`?
