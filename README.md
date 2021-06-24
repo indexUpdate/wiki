@@ -11,3 +11,18 @@ const App = () => {
   )
 };
 ```
+
+### Simple Caching data / Use as Effect dependency
+```tsx
+const App = () => {
+  const { index, makeTransaction } = useIndexUpdate();
+  React.useEffect(() => { 
+     // Your Side Effect
+  }, [index);
+  return (
+    <button onClick={() => makeTransaction()} type="button">
+        current value is {index}
+    </button>
+  )
+};
+``
