@@ -31,3 +31,5 @@ const App = () => {
 ### FAQ
 - #### Does it support `Angular`, `Vue`, `VanillaJS`?
 Not yet, but it will added in future (`@indexUpdate/angular`, `@indexUpdate/angular`)
+- #### How fast is it? 
+Very fast
